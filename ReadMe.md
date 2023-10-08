@@ -28,5 +28,5 @@ git submodule init
 ```
 Only thing left is to update submodules
 ```
-git submodules update
+git submodule update
 ```
