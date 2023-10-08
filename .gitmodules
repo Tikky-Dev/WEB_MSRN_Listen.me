@@ -1,3 +1,9 @@
 [submodule "03_BackEnd"]
 	path = 03_BackEnd
 	url = git@github.com:Tikky-Dev/WEB_MSRN_Listen.me-BackEnd.git
+[submodule "04_FrontEnd"]
+	path = 04_FrontEnd
+	url = git@github.com:Tikky-Dev/WEB_MSRN_Listen.me-FrontEnd.git
+[submodule "05_ToolsAndPlugins"]
+	path = 05_ToolsAndPlugins
+	url = git@github.com:Tikky-Dev/WEB_MSRN_Listen.me-ToolsAndPlugins.git
