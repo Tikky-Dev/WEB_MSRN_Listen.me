@@ -1,0 +1,1 @@
+This is a folder for addittional resources for the project such as database dump, postman dump and such

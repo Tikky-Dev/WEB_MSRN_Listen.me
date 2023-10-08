@@ -1,0 +1,1 @@
+This folder is for documentation of the whole project including neccecery images and additions for the documentation
