@@ -56,10 +56,10 @@ git submodule update
 **Back-end documentation:**
 - partially located in overall documentation and extensive documentation in the read me file in the project repository (folder 03_BackEnd)
 - File name ReadMe.md
-- you can find extensive documentation [here](./03_BackEnd/ReadMe.md)
+- you can find extensive documentation [here](https://github.com/Tikky-Dev/WEB_MSRN_Listen.me-BackEnd/blob/712b98bd2e16444398c185065d47fbed2f032bd7/ReadMe.md)
 
 **Front-end documentation:**
 - partially located in overall documentation and extensive documentation in the read me file in the project repository (folder 04_FrontEnd)
 - File name ReadMe.md
-- you can find extensive documentation [here](./04_FrontEnd/ReadMe.md)
+- you can find extensive documentation [here](https://github.com/Tikky-Dev/WEB_MSRN_Listen.me-FrontEnd/blob/89bf7316f033429f83743bd151af6fad06582519/ReadMe.md)
 
